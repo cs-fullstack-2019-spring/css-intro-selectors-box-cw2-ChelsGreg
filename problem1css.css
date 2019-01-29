@@ -1,0 +1,30 @@
+
+/*Add CSS selector to make the h1 tags red, padded on all sides by 20px, and display 25% from the left side of the web page*/
+
+h1{
+    color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 25px;
+}
+
+
+/*Add CSS selector to make the h2 tags blue and have a 1px border*/
+
+
+h2{
+
+    color: blue;
+    border: 1px solid blue;
+}
+
+
+/*Add a CSS selector and use it to make all instances of the word 'better' green with a font-weight of bold*/
+
+
+.betterGreen{
+    color: green;
+    font-weight: bold;
+}
